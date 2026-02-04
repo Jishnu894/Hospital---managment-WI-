@@ -6,4 +6,4 @@ The dashboard has been fully developed, providing an updated interface with key 
 
 **Backend**
 
-The complelte backend for the project for the project is completed with autheication, file uploading, files reteriving, database connection and integration
+The complelte backend for the project for the project is completed with autheication, file uploading, files reteriving, database connection and integrations
